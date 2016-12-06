@@ -1,6 +1,9 @@
 # InABox
 
+## Other Similar Projects
+
 ## Evaluation Criteria
+Some criteria with which we can evaulate projects we may want to include in our stack
 
 ### Technical Considerations for each service:
 - Can it be used in an isolated, per city instance capability?
@@ -18,9 +21,6 @@
 - Should we use owncloud or its alternative? If so, what do we use it for that we wouldn't  use Martus for?
 - What are some ways to unify account management? When are things like SSO, shared auth, single source password management a good idea or necessary? What threats do they present?
 
-
-
-## Other Similar Projects"
 
 ## Single Sign On
 
